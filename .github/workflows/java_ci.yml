@@ -34,5 +34,5 @@ jobs:
       - name: Upload GitHub Artifact
         uses: actions/upload-artifact@v4
         with:
-          name: HuskHomesGUI Plugin
-          path: target/HuskHomesGUI-*.jar
+          name: HuskHomesMenu Plugin
+          path: target/HuskHomesMenu-*.jar
